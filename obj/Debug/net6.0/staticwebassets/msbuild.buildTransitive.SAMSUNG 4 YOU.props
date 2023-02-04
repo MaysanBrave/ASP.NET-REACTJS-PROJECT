@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SAMSUNG 4 YOU.props" />
+</Project>

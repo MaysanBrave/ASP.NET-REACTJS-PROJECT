@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SAMSUNG 4 YOU.props" />
+</Project>
